@@ -1,1 +1,2 @@
 NewsMonkey is build using react and bootstrap css . It is a Web App which gives you news headlines based on the category you are interested - general , entertainment , sports etc. . NewsApi.org Api has been used for fetching top headlines and displaying . Infinite Scroll also has been used in this project . 
+This has not been deployed . for UI experience video link is here - https://drive.google.com/file/d/1KQBmRsVYjzef8Tn7Oyn7h4YMdVy8PjTh/view?usp=drive_link
